@@ -1,3 +1,12 @@
+/**
+ * Created on Fri Dec 1 14:10:10 2017
+ * @author: Vladimir Bachilo
+ */
+
+ /**
+  * TODO: Define a class Person with the following properties: ...
+  */
+
 class Person {
     constructor(firstName, lastName, age, gender) {
         firstName !== undefined ? this.firstName = firstName : this.firstName = "John";

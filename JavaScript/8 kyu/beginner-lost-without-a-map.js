@@ -1,5 +1,12 @@
+/**
+ * Created on Tue Nov 7 20:15:20 2017
+ * @author: Vladimir Bachilo
+ */
+
+ /**
+  * TODO: Given and array of integers (x), return the array with each value doubled.
+  */
+
 function maps(x){
   return x.map(n => n * 2);
 }
-
-// Given and array of integers (x), return the array with each value doubled.

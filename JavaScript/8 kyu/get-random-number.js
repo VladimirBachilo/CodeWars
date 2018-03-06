@@ -1,3 +1,12 @@
+/**
+ * Created on Sun Dec 3 11:10:10 2017
+ * @author: Vladimir Bachilo
+ */
+
+ /**
+  * TODO: Get random number.
+  */
+
 function randomNumber(min, max) {
 	return (min+ Math.random() * (max  - min)).toFixed(0);
 }
