@@ -1,3 +1,14 @@
+/**
+ * Created on Thu Feb 18 19:39:59 2018
+ * @author: Vladimir Bachilo
+ */
+
+ /**
+  * TODO: Create a RomanNumerals helper that can convert a roman numeral to and
+  from an integer value. It should follow the API demonstrated in the examples
+  below. Multiple roman numeral values will be tested for each helper method.
+  */
+
 var numerals = [
   ['M', 1000],
   ['CM', 900],

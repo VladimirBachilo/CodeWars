@@ -1,3 +1,12 @@
+/**
+ * Created on Sun Mar 4 12:20:19 2018
+ * @author: Vladimir Bachilo
+ */
+
+ /**
+  * TODO: In this Kata, we are going to cube :).
+  */
+
 function toCube(x) {
 	return x*x*x;
 }

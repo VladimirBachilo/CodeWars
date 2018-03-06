@@ -1,3 +1,14 @@
+/**
+ * Created on Thu Feb 15 16:19:26 2018
+ * @author: Vladimir Bachilo
+ */
+
+ /**
+  * TODO: Create a function taking a positive integer as its parameter and returning
+  a string containing the Roman Numeral representation of that integer.
+  */
+
+
 function solution(number){
   var result   = '',
       decimals = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1],
@@ -9,9 +20,6 @@ function solution(number){
       number -= value;
     }
   });
-  
+
   return result;
 }
-
-/* Create a function taking a positive integer as its parameter and returning
-a string containing the Roman Numeral representation of that integer. */

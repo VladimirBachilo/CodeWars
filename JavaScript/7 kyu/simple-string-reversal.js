@@ -1,3 +1,12 @@
+/**
+ * Created on Sat Mar 3 18:25:10 2018
+ * @author: Vladimir Bachilo
+ */
+
+ /**
+  * TODO: In this Kata, we are going to reverse a string while maintaining spaces.
+  */
+
 function solve(str)
 {
   var s = "";
@@ -8,5 +17,3 @@ function solve(str)
   }
   return s;
 }
-
-//In this Kata, we are going to reverse a string while maintaining spaces.

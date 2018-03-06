@@ -1,3 +1,14 @@
+/**
+ * Created on Wed Feb 14 18:17:26 2018
+ * @author: Vladimir Bachilo
+ */
+
+ /**
+  * TODO: Create a function that takes a Roman numeral as its argument and returns
+  its value as a numeric decimal integer. You don't need to validate the form of
+  the Roman numeral.
+  */
+
 function solution(roman){
   var data = {M: 1000, D: 500, C: 100, L: 50, X: 10, V: 5, I: 1};
   var numbers = roman.split('');
@@ -13,7 +24,3 @@ function solution(roman){
   }
   return sum;
 }
-
-/* Create a function that takes a Roman numeral as its argument and returns
-its value as a numeric decimal integer. You don't need to validate the form of
-the Roman numeral. */

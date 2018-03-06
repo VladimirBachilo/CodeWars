@@ -1,3 +1,12 @@
+/**
+ * Created on Mon Mar 5 18:19:49 2018
+ * @author: Vladimir Bachilo
+ */
+
+ /**
+  * TODO: String to snake_case.
+  */
+
 function toSnakeCase (str) {
     "use strict";
     let res = '';

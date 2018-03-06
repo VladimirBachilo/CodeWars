@@ -1,3 +1,14 @@
+/**
+ * Created on Thu Mar 2 22:05:23 2018
+ * @author: Vladimir Bachilo
+ */
+
+ /**
+  * TODO: Create a function named divisors/Divisors that takes an integer and
+  returns an array with all of the integer's
+  divisors(except for 1 and the number itself).
+  */
+
 function divisors(integer) {
   var divs = [];
 
@@ -9,7 +20,3 @@ function divisors(integer) {
 
   return divs.length ? divs : integer + ' is prime';
 };
-
-/* Create a function named divisors/Divisors that takes an integer and returns
-an array with all of the integer's
-divisors(except for 1 and the number itself).  */
