@@ -2,7 +2,7 @@
 
 <div align="center">
   <sub>
-    <a href="https://github.com/bachilo">Vladimir Bachilo</a>. Achiving code mastery through kata and coffee.
+    <a href="https://github.com/bachyla">Vladimir Bachilo</a>. Achiving code mastery through kata and coffee.
   </sub>
 </div>
 
