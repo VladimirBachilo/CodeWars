@@ -28,4 +28,4 @@ Seriously.
 
 
 ## Honors
-<a href="https://www.codewars.com/users/uladzimir.bachyla/badges/large" target="_blank"><img src="https://www.codewars.com/users/valdemar.bachilo/badges/large"></a>
+<a href="https://www.codewars.com/users/uladzimir.bachyla/badges/large" target="_blank"><img src="https://www.codewars.com/users/uladzimir.bachyla/badges/large"></a>
