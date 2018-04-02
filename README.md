@@ -2,7 +2,7 @@
 
 <div align="center">
   <sub>
-    <a href="https://github.com/bachilo">Vladimir Bachilo</a>. Achiving code mastery through kata and coffee.
+    <a href="https://github.com/bachyla">Uladzimir Bachyla</a>. Achiving code mastery through kata and coffee.
   </sub>
 </div>
 
@@ -28,4 +28,4 @@ Seriously.
 
 
 ## Honors
-<a href="https://www.codewars.com/users/valdemar.bachilo" target="_blank"><img src="https://www.codewars.com/users/valdemar.bachilo/badges/large"></a>
+<a href="https://www.codewars.com/users/uladzimir.bachyla" target="_blank"><img src="https://www.codewars.com/users/uladzimir.bachyla/badges/large"></a>
