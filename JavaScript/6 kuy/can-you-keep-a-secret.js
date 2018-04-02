@@ -1,6 +1,6 @@
 /**
  * Created on Sun Mar 25 18:16:04 2018
- * @author: Vladimir Bachilo
+ * @author: Uladzimir Bachyla
  */
 
  /**
