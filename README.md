@@ -3,6 +3,7 @@
 <div align="center">
   <sub>
     <a href="https://github.com/bachyla">Uladzimir Bachyla</a>. Achiving code mastery through kata and coffee.
+    <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="RS_school">
   </sub>
 </div>
 
