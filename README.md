@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="RS_school">
+  <br>
   <sub>
     <a href="https://github.com/bachyla">Uladzimir Bachyla</a>. Achiving code mastery through kata and coffee.
   </sub>
