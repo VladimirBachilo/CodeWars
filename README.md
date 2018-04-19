@@ -1,10 +1,10 @@
 <h1 align="center">CodeWars</h1>
 
 <div align="center">
+  <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="RS_school">
   <sub>
     <a href="https://github.com/bachyla">Uladzimir Bachyla</a>. Achiving code mastery through kata and coffee.
   </sub>
-  <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="RS_school">
 </div>
 
 <br/>
