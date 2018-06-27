@@ -1,3 +1,13 @@
+/**
+ * Created on Wednesday June 27 12:10:41 2018
+ * @author: Uladzimir Bachyla
+ */
+
+ /**
+  * TODO: For a given chemical formula represented by a string, count the number of atoms of each
+  * element contained in the molecule and return an object
+  */
+
 function parseMolecule(formula) {
     var stack = [];
     var multiplier = 1;
