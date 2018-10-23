@@ -8,9 +8,5 @@
   */
 
  function invert(array) {
-    const inverted = []; 
-    for (let i = 0; i < array.length; i++) {
-      inverted.push(parseInt(-array[i]));
-    }
-    return inverted;
-  }
+    return array.map( x => x === 0 ? x : -x);
+ }
