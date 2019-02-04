@@ -10,6 +10,4 @@
   in a lot of numbers at random places in the text.
   */
 
-function stringClean(s){
-  return s.replace(/\d/g, "");
-}
+const stringClean = (s) => { s.replace(/\d/g, "") }
