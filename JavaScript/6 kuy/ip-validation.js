@@ -10,14 +10,7 @@
   * 
   * Input to the function is guaranteed to be a single string.
   */
-
-function isValidIP(str) {
-    console.log(str);
-    if(!/^\d+\.\d+\.\d+\.\d+$/.test(str))
-      return false
-    const num = str.split('.');
-    for(var i = 0 ; i < 4 ; i++)
-      if(parseInt(num[i]) >= 256 || parseInt(num[i]) < 0 || (num[i]!=0 && num[i].charAt(0) == '0'))
-       return false
-    return true;
+ 
+  function isValidIP(str) {
+    return /^(([1-9]?\d|1\d\d|2[0-4]\d|25[0-5])(\.(?!$)|$)){4}$/.test(str);
   }
